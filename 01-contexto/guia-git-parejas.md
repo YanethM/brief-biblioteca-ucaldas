@@ -36,7 +36,7 @@ git remote -v
 
 ---
 
-## Flujo de trabajo 
+## Flujo de trabajo
 
 ### Antes de empezar a trabajar
 
@@ -104,7 +104,7 @@ Cada etapa del taller tiene su propia rama. Cuando terminen la etapa, suben la r
 
 ```bash
 git pull origin main
-git checkout -b especificacion 
+git checkout -b especificacion
 # Completar mi-entrega/especificacion.md a partir de la plantilla
 git add mi-entrega/especificacion.md
 git commit -m "etapa1: especificacion del sistema de biblioteca"
